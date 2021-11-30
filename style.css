@@ -1,19 +1,27 @@
+/* TUDO */
 body {
     background-color: rgb(243, 255, 235);
-  }
-  
-  b {
+}
+
+b {
     color: rgb(33, 82,0);
     font-style: italic;
-    border-color: rgb(245, 255, 144);
-   }
-  
-  #name {
+    
+    background-color : rgb(245, 255, 144);
+}
+
+/* CABEÇALHO */
+
+.name {
     font-family: fantasy;
     color: rgb(33, 82, 0);
     
   }
-  
+
+/* SEÇÃO 1 */
+section.bloco-1 {
+display: inline-block;
+}
   #description {
     font-family: Arial, Helvetica, sans-serif;
   }
