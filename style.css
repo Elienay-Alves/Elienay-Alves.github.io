@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(243, 255, 235);
+  }
+  
+  b {
+    color: rgb(33, 82,0);
+    font-style: italic;
+    border-color: rgb(245, 255, 144);
+   }
+  
+  #name {
+    font-family: fantasy;
+    color: rgb(33, 82, 0);
+    
+  }
+  
+  #description {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #foto {
+     border-radius: 25%;  
+  }
